@@ -1,2 +1,3 @@
 Hello World!
 Give msg while pusing.
+And direct push from send time.
